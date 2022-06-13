@@ -1,1 +1,1 @@
-this spring boot rest api if for learning perpose README.md
+This spring boot rest api is for learning perpose README.md
